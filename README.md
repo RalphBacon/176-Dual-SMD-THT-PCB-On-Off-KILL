@@ -17,15 +17,12 @@ This is an Arduino UNO R3 Shield and allows you to remotely (wired, two-wire swi
 
 If I can do this with just one dodgy eye to solder with then you can too!
 
-But, to increase the liklihood of success, try the Banggood practice SMD kit for less than $2 (incl shipping) first, then do this project.
+But, to increase the liklihood of success, try the **Banggood practice SMD kit** (link below) for less than $2 (incl shipping) first, then do this project.
 
 ### INFO LINKS
 
 JLCPCB Holiday Schedule - THEY WILL REMAIN OPEN FOR STANDARD GREEN PCBs  
 https://support.jlcpcb.com/article/73-jlcpcb-spring-festival-holiday-schedule?_ga=2.102929412.523505187.1578557504-702731578.1566552454
-
-All this info and more in my GitHub, with pretty pictures, sketches and everything!
-https://github.com/RalphBacon/176-Dual-SMD-THT-PCB-On-Off-KILL
 
 Schematic (Circuit Diagram):  
 https://github.com/RalphBacon/176-Dual-SMD-THT-PCB-On-Off-KILL/blob/master/Ardu8no%20UNO%20shield%20On%20Off%20Kill%20-%20Schematic.pdf
